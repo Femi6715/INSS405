@@ -1,5 +1,5 @@
 sum = 0.00
-for i in range(9):
+for i in range(2):
     score = input('Enter Score')
     sum = sum + int(score)
 

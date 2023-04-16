@@ -15,7 +15,7 @@ def addition(num1,num2,num3):
 
 def average(num1,num2,num3):
     sum = int(num1) + int(num2) + int(num3)
-    average = sum / 2
+    average = sum / 3
     return average
 
 def maximum (num1,num2,num3):
