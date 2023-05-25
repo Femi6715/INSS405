@@ -9,3 +9,4 @@ oddNumbers = [num for num in randomIntegers if num % 2 != 0]
 
 print("Random Integers:", randomIntegers)
 print("Odd Numbers:", oddNumbers)
+

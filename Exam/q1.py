@@ -28,3 +28,4 @@ median = calculate_median(numbers)
 print("Mean:", mean)
 print("Sum:", totalSum)
 print("Median:", median)
+
